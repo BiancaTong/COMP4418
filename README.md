@@ -1,1 +1,1 @@
-# COMP4418
+Knowledge Representation with Python3.5
